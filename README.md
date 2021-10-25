@@ -3,4 +3,7 @@ This is a small example application, demonstrating how to have a multiple thread
 
 ## Sketch of application structure
 Below is a sketch of the application structure.
+
 ![Sketch of the application structure](/sketch.png)
+
+This little app builds on [the lmax-disruptor user guide](https://lmax-exchange.github.io/disruptor/user-guide/index.html)
