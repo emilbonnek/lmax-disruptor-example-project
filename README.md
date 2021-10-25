@@ -6,4 +6,4 @@ Below is a sketch of the application structure.
 
 ![Sketch of the application structure](/sketch.png)
 
-This little app builds on [the lmax-disruptor user guide](https://lmax-exchange.github.io/disruptor/user-guide/index.html)
+This small application builds on [the lmax-disruptor user guide](https://lmax-exchange.github.io/disruptor/user-guide/index.html).
